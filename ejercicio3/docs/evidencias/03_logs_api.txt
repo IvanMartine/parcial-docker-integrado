@@ -1,0 +1,5 @@
+ej3_api  | 
+ej3_api  | > ej3-api@1.0.0 start
+ej3_api  | > node server.js
+ej3_api  | 
+ej3_api  | ✅ API escuchando en puerto 3000
